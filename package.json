@@ -1,0 +1,21 @@
+{
+  "name": "makemehapi",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "hapi": "^18.0.0",
+    "inert": "^5.1.2",
+    "jest": "^23.6.0"
+  },
+  "devDependencies": {
+    "eslint": "^5.12.1",
+    "eslint-config-airbnb-base": "^13.1.0",
+    "eslint-plugin-import": "^2.15.0"
+  }
+}
